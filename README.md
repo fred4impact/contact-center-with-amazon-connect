@@ -1,7 +1,8 @@
 # ☁️ Cloud Contact Center with Amazon Connect
 
 This project demonstrates how to deploy a fully serverless contact center for small businesses using **Amazon Connect** and supporting AWS services.
-<img src="assets/connect-architecture.png" width="600"/>
+
+![Amazon Connect Flow](assets/connect-architecture.png)
 
 
 ## 🧩 Features
